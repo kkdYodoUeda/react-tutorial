@@ -60,3 +60,9 @@ p, ul {
 ul {
   padding-left: 30px;
 }
+
+.commentList { border: 2px solid #26d1aa;}
+.commentForm {
+  margin-top: 2em;
+  border: 2px solid #de68f4;
+}
